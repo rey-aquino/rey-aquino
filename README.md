@@ -1,1 +1,1 @@
-https://github-readme-stats.vercel.app/api?username=rey-aquino&count_private-true&show_icons-true&theme-algolia
+![ITAnurag's GitHub statsl](https://github-readme-stats.vercel.app/api?username=rey-aquino&count_private-true&show_icons-true&theme-algolia)
